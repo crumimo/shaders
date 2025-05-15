@@ -123,8 +123,8 @@ Material:
     - _Intensity: 8.16
     - _Metallic: 0
     - _OcclusionStrength: 1
-    - _ParalaxFrequency: 1.32
-    - _ParalaxIntensity: 1.33
+    - _ParalaxFrequency: 0.85
+    - _ParalaxIntensity: 2.4
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
