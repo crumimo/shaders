@@ -49,8 +49,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 67eb51ead26f1ff4b90b1b5cc3028e6e, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Scale: {x: 3.7, y: 1}
+        m_Offset: {x: 1.04, y: 0}
     - _MetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -65,12 +65,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ParallaxTex:
         m_Texture: {fileID: 2800000, guid: f2d5a1d4e987dc343bea2a4790768f5a, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+        m_Scale: {x: 0.2, y: 0.83}
+        m_Offset: {x: -0.06, y: 0}
     - _SecondaryTex:
         m_Texture: {fileID: 2800000, guid: 3ec2b8584b22b4645b538c310816c05c, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: -0}
+        m_Scale: {x: 0.8, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -109,8 +109,8 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _ParallaxFrequency: 7.38
-    - _ParallaxIntensity: 0.42
+    - _ParallaxFrequency: 22.2
+    - _ParallaxIntensity: 1.2
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
